@@ -31,4 +31,4 @@ Um site dinâmico e interativo, apresentando informações essenciais de forma c
 
 
 **🌐 Entrega do projeto** [ Site da Escola de Música Lapa 🎸🎹](https://minoru-yamanaka.github.io/minoru-yamanaka-Site_da_Escola_de_Musica_Lapa_Atv_Aecio_Fev_2025/)  
-# minoru-yamanaka-Site_da_Escola_de_Musica_Lapa_Atv_Aecio_Fev_2025
+
