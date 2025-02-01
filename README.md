@@ -30,5 +30,5 @@ Um site dinâmico e interativo, apresentando informações essenciais de forma c
 🔎 **Referência:** [Espaço Musical Bruna Mailho](https://www.espacomusicalbrunamailho.com/quem-somos)  
 
 
-**🌐 Entrega do projeto** [ Site da Escola de Música Lapa 🎸🎹](https://minoru-yamanaka.github.io/Site_da_Escola_de_Musica_Lapa_Atv_Aecio_Fev_2025/)  
+**🌐 Entrega do projeto** [ Site da Escola de Música Lapa 🎸🎹](https://minoru-yamanaka.github.io/minoru-yamanaka-Site_da_Escola_de_Musica_Lapa_Atv_Aecio_Fev_2025/)  
 # minoru-yamanaka-Site_da_Escola_de_Musica_Lapa_Atv_Aecio_Fev_2025
